@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Harshita Sao
 
-<img align="right" alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="500" height="320"/>
+<img align="right" alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="400" height="320"/>
 
 <!--
 **harshitasao/harshitasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
