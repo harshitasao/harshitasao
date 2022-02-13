@@ -12,7 +12,7 @@ I love to grasp more and more knowledge of different technologies and frameworks
 
 <br/>
 <br/>
----
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
