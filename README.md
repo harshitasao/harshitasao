@@ -5,14 +5,14 @@
 ## Freelance Full Stack Developer and Open Source Contributor
 I love to grasp more and more knowledge of different technologies and frameworks.
 ### Talk with me 
-[<img alt="linkedin | Linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>[Linkedin]
-[<img alt="instagram" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/instagram.png"/>[Instagram]
+[<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>[linkedin]
+[<img alt="instagram" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/instagram.png"/>][instagram]
 
 
 
 
-[Linkedin]:https://www.linkedin.com/in/harshita-sao-468497206/
-[Instagram]:https://www.instagram.com/harshitasao_09/
+[linkedin]: https://www.linkedin.com/in/harshita-sao-468497206/
+[instagram]: https://www.instagram.com/harshitasao_09/
 <!--
 **harshitasao/harshitasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
