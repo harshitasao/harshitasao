@@ -7,12 +7,13 @@ I love to grasp more and more knowledge of different technologies and frameworks
 ### Talk with me 
 [<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>][linkedin]
 [<img alt="instagram" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/instagram.png"/>][instagram]
-
+[<img alt="twitter" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/twitter.png"/>][twitter]
 
 
 
 [linkedin]: https://www.linkedin.com/in/harshita-sao-468497206/
 [instagram]: https://www.instagram.com/harshitasao_09/
+[twitter]: https://twitter.com/09_harshitasao
 <!--
 **harshitasao/harshitasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
