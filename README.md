@@ -8,6 +8,11 @@ I love to grasp more and more knowledge of different technologies and frameworks
 [<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>[Linkedin]
 [<img alt="instagram" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/instagram.png"/>[Instagram]
 
+
+
+
+[Linkedin]:https://www.linkedin.com/in/harshita-sao-468497206/
+[Instagram]:https://www.instagram.com/harshitasao_09/
 <!--
 **harshitasao/harshitasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
