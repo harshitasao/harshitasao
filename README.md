@@ -16,7 +16,7 @@ I love to grasp more and more knowledge of different technologies and frameworks
   <img align="left" alt="Harshita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitasao&show_icons=true&hide_border=true" />
 
 </details>
-
+<br/>
 <details>
   <summary>:zap: Most Used Languages</summary>
 
