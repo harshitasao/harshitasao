@@ -9,19 +9,6 @@ I love to grasp more and more knowledge of different technologies and frameworks
 [<img alt="instagram" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/instagram.png"/>][instagram]
 [<img alt="twitter" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/twitter.png"/>][twitter]
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Harshita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitasao&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Harshita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitasao" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/harshita-sao-468497206/
 [instagram]: https://www.instagram.com/harshitasao_09/
