@@ -4,7 +4,7 @@
   
 ## Freelance Full Stack Developer and Open Source Contributor
 I love to grasp more and more knowledge of different technologies and frameworks.
-### Talk with me 
+### Connect with me 
 [<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>][linkedin]
 [<img alt="instagram" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/instagram.png"/>][instagram]
 [<img alt="twitter" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/twitter.png"/>][twitter]
