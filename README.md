@@ -5,7 +5,7 @@
 ## Freelance Full Stack Developer and Open Source Contributor
 I love to grasp more and more knowledge of different technologies and frameworks.
 ### Talk with me 
-
+[<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>[Linkedin]
 
 <!--
 **harshitasao/harshitasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
