@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Harshita Sao
+### Hello👋 I'm Harshita Sao
 
   <img align="right" alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="400" height="280"/>
   
