@@ -2,7 +2,7 @@
 
   <img align="right" alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="400" height="280"/>
   
-## Full Stack Developer and Open Source Contributor
+## DevOps Enthusiast, Full Stack Developer and Open Source Contributor.
 I love to grasp more and more knowledge of different technologies and frameworks.
 - ✍ You can find my projects here [portfolio]
 ### Connect with me 
