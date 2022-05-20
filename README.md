@@ -1,6 +1,6 @@
 ### Hello👋 I'm Harshita Sao
 
-  <img align="right" alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="600" height="280"/>
+  <img align="right" alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="600" height="380"/>
   
 ## DevOps Enthusiast, Full Stack Developer and Open Source Contributor.
 I love to grasp more and more knowledge of different technologies and frameworks.
