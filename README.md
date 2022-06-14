@@ -2,7 +2,7 @@
 
   <img  alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="400" height="280"/>
   
-## @kubernetes 1.25 Release Team, Open Source Contributor, DevOps Enthusiast.
+## Kubernetes 1.25 Release Team, Open Source Contributor, DevOps Enthusiast.
 I love to grasp more and more knowledge of different technologies and frameworks.
 ### Connect with me 
 [<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>][linkedin]
