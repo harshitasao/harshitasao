@@ -1,9 +1,9 @@
-### Hello👋 I'm Harshita Sao
+### Hello👋 I'm [Harshita](https://bio.link/harshita09)
 
-  <img  alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="400" height="280"/>
+  <img  alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="1050" height="450"/>
   
 ## Kubernetes 1.25 Release Team, Open Source Contributor, DevOps Enthusiast.
-I love to grasp more and more knowledge of different technologies and frameworks.
+I love to grasp knowledge of different technologies and frameworks.
 ### Connect with me 
 [<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>][linkedin]
 [<img alt="twitter" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/twitter.png"/>][twitter]
