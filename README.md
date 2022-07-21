@@ -1,6 +1,6 @@
 ### Hello👋 I'm [Harshita](https://bio.link/harshita09)
 
-  <img  alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="900" height="450"/>
+  <img  alt="gif" src="https://github.com/harshitasao/harshitasao/blob/master/git.gif" width="500" height="350"/>
   
 ## Kubernetes 1.25 Release Team, Open Source Contributor, DevOps Enthusiast.
 I love to grasp knowledge of different technologies and frameworks.
