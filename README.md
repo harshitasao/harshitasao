@@ -4,6 +4,13 @@
   
 ## Kubernetes 1.25 Release Team, Open Source Contributor, DevOps Enthusiast.
 I love to grasp knowledge of different technologies and frameworks.
+
+### My Recent Blogs
+- https://blog.kubeworld.org/introduction-to-opal
+- https://blog.kubeworld.org/introduction-to-gitops-and-argocd
+- https://blog.kubeworld.org/getting-started-with-kubernetes-1
+- https://blog.kubeworld.org/basic-structure-of-kubernetes-configuration-file
+- https://harshitasao.hashnode.dev/the-story-of-my-first-kubecon-cloudnativecon
 ### Connect with me 
 [<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>][linkedin]
 [<img alt="twitter" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/twitter.png"/>][twitter]
@@ -27,9 +34,7 @@ I love to grasp knowledge of different technologies and frameworks.
 </details>
 
 [linkedin]: https://www.linkedin.com/in/harshita-sao-468497206/
-[instagram]: https://www.instagram.com/harshitasao_09/
 [twitter]: https://twitter.com/09_harshitasao
-[portfolio]: https://harshitasao.com/
 <!--
 **harshitasao/harshitasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
