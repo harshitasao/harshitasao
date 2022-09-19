@@ -1,31 +1,12 @@
 ### Hello👋 I'm [Harshita](https://bio.link/harshita09)
 
-  
-  
-## Kubernetes 1.26 & 1.25 Release Shadow, Open Source Contributor, DevOps Enthusiast.
-I love to grasp knowledge of different technologies and frameworks.
+**Connect with me**: [Twitter](https://twitter.com/09_harshitasao) | [LinkedIn](https://www.linkedin.com/in/harshita-sao-468497206/) | [Blogs](https://hashnode.com/@harshitasao)
 
-### My Recent Blogs
-- https://blog.kubeworld.org/introduction-to-opal
-- https://blog.kubeworld.org/introduction-to-gitops-and-argocd
-- https://blog.kubeworld.org/getting-started-with-kubernetes-1
-- https://blog.kubeworld.org/basic-structure-of-kubernetes-configuration-file
-- https://harshitasao.hashnode.dev/the-story-of-my-first-kubecon-cloudnativecon
-### Connect with me 
-[<img alt="linkedin" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/linkedin.png"/>][linkedin]
-[<img alt="twitter" align="left" src="https://github.com/harshitasao/harshitasao/blob/master/twitter.png"/>][twitter]
+:woman_technologist:  I love to learn about new tools and technologies and to contribute to various open source projects. </br>
+🎯 2022 Goal : Learn and Contribute.
 
-<br/>
-<br/>
-<br/>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Harshita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitasao&show_icons=true&hide_border=true" />
-
-</details>
-
+- Kubernetes [1.26 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md): As a Comms Shadow.
+- Kubernetes [1.25 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md): As a Bug Triage Shadow.
 <details>
   <summary>:zap: Most Used Languages</summary>
 
