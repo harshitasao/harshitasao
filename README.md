@@ -2,7 +2,7 @@
 
   
   
-## Kubernetes 1.25 Release Shadow, Open Source Contributor, DevOps Enthusiast.
+## Kubernetes 1.26 & 1.25 Release Shadow, Open Source Contributor, DevOps Enthusiast.
 I love to grasp knowledge of different technologies and frameworks.
 
 ### My Recent Blogs
