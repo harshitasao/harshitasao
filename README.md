@@ -14,6 +14,8 @@
 
 </details>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshitasao.harshitasao)
+
 [linkedin]: https://www.linkedin.com/in/harshita-sao-468497206/
 [twitter]: https://twitter.com/09_harshitasao
 <!--
