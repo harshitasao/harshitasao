@@ -1,6 +1,6 @@
 ### Hello👋 I'm [Harshita](https://bio.link/harshita09)
 
-**Connect with me**: [Twitter](https://twitter.com/09_harshitasao) | [LinkedIn](https://www.linkedin.com/in/harshita-sao-468497206/) | [Blogs](https://hashnode.com/@harshitasao)
+**Connect with me**: [Twitter](https://twitter.com/09_harshitasao) | [LinkedIn](https://www.linkedin.com/in/harshita-sao-468497206/) | [Blogs](https://hashnode.com/@harshitasao) | [Talks](https://github.com/harshitasao/talks)
 
 :woman_technologist:  I love to learn about new tools and technologies and to contribute to various open source projects. </br>
 🎯 2022 Goal : Learn and Contribute.
