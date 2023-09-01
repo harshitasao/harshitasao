@@ -3,7 +3,6 @@
 **Connect with me**: [Twitter](https://twitter.com/09_harshitasao) | [LinkedIn](https://www.linkedin.com/in/harshita-sao-468497206/) | [Blogs](https://hashnode.com/@harshitasao) | [Talks](https://github.com/harshitasao/talks)
 
 :woman_technologist:  I love to learn about new tools and technologies and to contribute to various open source projects. </br>
-🎯 2022 Goal : Learn and Contribute.
 
 - Kubernetes [1.26 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md): As a Comms Shadow.
 - Kubernetes [1.25 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md): As a Bug Triage Shadow.
