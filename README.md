@@ -4,6 +4,8 @@
 
 :woman_technologist:  I love to learn about new tools and technologies and to contribute to various open source projects. </br>
 
+- Kubernetes [1.29 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.29/release-team.md): As a Docs Shadow.
+- Kubernetes [1.27 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.27/release-team.md): As a Comms Lead.
 - Kubernetes [1.26 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md): As a Comms Shadow.
 - Kubernetes [1.25 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md): As a Bug Triage Shadow.
 <details>
