@@ -2,15 +2,12 @@
 
 **Connect with me**: [Twitter](https://twitter.com/09_harshitasao) | [LinkedIn](https://www.linkedin.com/in/harshita-sao-468497206/) | [Blogs](https://hashnode.com/@harshitasao) | [Talks](https://github.com/harshitasao/talks)
 
-:woman_technologist:  I love to learn about new tools and technologies and to contribute to various open source projects. </br>
+- ☸️ Contributor at [Kubernetes](https://kubernetes.io/) 
+- 🗣 Ambassador at [CNCF](https://www.cncf.io/)
 
-- Kubernetes Release Team Member.
-<details>
-  <summary>:zap: Most Used Languages</summary>
+### GitHub Stats
 
-<img align="left" alt="Harshita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitasao" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitasao&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/harshita-sao-468497206/
