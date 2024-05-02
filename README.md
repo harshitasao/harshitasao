@@ -3,7 +3,7 @@
 **Connect with me**: [Twitter](https://twitter.com/09_harshitasao) | [LinkedIn](https://www.linkedin.com/in/harshita-sao-468497206/) | [Blogs](https://hashnode.com/@harshitasao) | [Talks](https://github.com/harshitasao/talks)
 
 - ☸️ Contributor at [Kubernetes](https://kubernetes.io/) 
-- 🗣 [CNCF](https://www.cncf.io/) Ambassador
+- 🗣 [CNCF](https://www.cncf.io/) Ambassador'23
 
 ### GitHub Stats
 
